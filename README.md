@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎙️ Podcast: A Importância de Estudar Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um podcast curto e objetivo, com cerca de 1 minuto, abordando a importância de estudar Inteligência Artificial e seu impacto no futuro profissional e pessoal. O foco é uma linguagem simples, clara e acessível, ideal para alcançar diferentes públicos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT – Criação do roteiro e estrutura do conteúdo
+- ElevenLabs – Conversão do texto em áudio com voz natural
+- Editor de texto (VS Code / Notion / Google Docs) – Organização do roteiro
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente, foi definido o tema central do podcast: a importância de estudar Inteligência Artificial. Em seguida, o roteiro foi elaborado com uma linguagem fluida e adequada para narração em áudio. Após a revisão do texto, o conteúdo foi convertido em áudio utilizando a plataforma ElevenLabs, garantindo naturalidade na fala e boa entonação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado final foi um podcast curto, claro e informativo, ideal para redes sociais, plataformas de streaming ou projetos educacionais. O áudio transmite a mensagem de forma objetiva e profissional, facilitando o entendimento mesmo para quem está começando no tema de IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O maior desafio foi criar um conteúdo que soasse natural e humano, mesmo sendo totalmente apoiado por Inteligência Artificial. O projeto mostra que, quando bem utilizada, a IA potencializa a criatividade em vez de substituí-la.
